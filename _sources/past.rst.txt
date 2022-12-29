@@ -1,0 +1,17 @@
+Past Events
+-----------
+
+Autumn 2022
+~~~~~~~~~~~
+
+**Session 1. Logistics**
+
+In this session, we explained the overall process of internship applications, starting from searching and networking to following up with interviewers and recruiters. We also held a panel discuss at the end of this session. The slides can be found :download:`here <files/session1.pdf>`.
+
+**Session 2. Interviews**
+
+In this session, we summarized different types of interviews and provide resources and tips for each of them. We also conducted a live interview without preparation to demonstrate the format of a typical interview. The slides can be found :download:`here <files/session2.pdf>`.
+
+**Session 3. Mock Interviews**
+
+In this session, we match each participant with an interviewer with internship and job experiences to conduct mock interviews.
