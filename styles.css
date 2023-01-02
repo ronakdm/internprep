@@ -1,0 +1,72 @@
+@import url("https://use.typekit.net/vfa4ecn.css");
+
+html,
+body {
+  background-color: #fff;
+  font-family: utopia-std, serif;
+  font-weight: 400;
+  margin-left: 12rem !important;
+  margin-right: 12rem !important;
+  padding: 0px !important;
+}
+/* Nav Bar */
+.wrapper {
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+}
+.navBar {
+  display: inline-block;
+  padding-right: 7rem;
+  vertical-align: top;
+}
+.navBar ul {
+  list-style-type: none;
+  padding: 0;
+}
+.navBar li a {
+  list-style-type: none;
+  color: #000;
+  text-decoration: none;
+}
+li {
+  margin-bottom: 5px;
+}
+.navBar li a:hover {
+  list-style-type: none;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-style: dotted;
+}
+.navBar ul li span {
+  font-size: 1.5rem;
+}
+.home {
+  font-weight: bold;
+  font-size: 1.7rem;
+  margin-bottom: 20px;
+}
+.body {
+  display: inline-block;
+  padding: 0;
+  vertical-align: top;
+}
+.title {
+  font-weight: lighter;
+  font-size: 4rem;
+}
+.under-text {
+  font-weight: 400;
+  font-size: 2.5rem;
+  margin-top: 2rem;
+}
+.body p {
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+p a {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-style: dotted;
+}
